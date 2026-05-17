@@ -1,0 +1,20 @@
+{
+    "categories": [
+        {
+            "id": 1,
+            "name": "Fantasy"
+        }
+    ],
+    "books": [
+        {
+            "title": "HP",
+            "author": "Rowling",
+            "published_year": null,
+            "external_id": "",
+            "categories": [
+                "Fantasy"
+            ]
+        }
+    ],
+    "reading_entries": []
+}
